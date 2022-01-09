@@ -2,10 +2,11 @@
 Goldman Sachs Problem-9
 Solution by Aditya Kumar Jaiswal
 
-Problem Statement: Print Anagrams Together
+Problem Statement: Number following a pattern 
 
-Given an array of strings, return all groups of strings that are anagrams. 
-The groups must be created in order of their appearance in the original array.
+Given a pattern containing only I's and D's. I for increasing and D for decreasing.
+Devise an algorithm to print the minimum number following that pattern.
+Digits from 1-9 and digits can't repeat.
 
 Solution is in java language
 */
